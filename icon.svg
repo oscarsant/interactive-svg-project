@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 322 950" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Add Google Fonts link for Inter font -->
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+    ]]></style>
+  </defs>
   <style>
     svg text {
-      font-size: 8px;
-      font-family: helvetica, sans-serif;
-      font-weight: 300;
     }
       
   </style>
@@ -736,7 +739,7 @@
                 style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="77.3604" y="678.591">Chelsea</tspan></text>
               <g id="team country 2nd/Variant7_45">
                 <path id="Rectangle 1_45"
-                  d="M115 670C115 667.791 116.791 666 119 666H151C153.209 666 155 667.791 155 670V686H119C116.791 686 115 684.209 115 682V670Z"
+                  d="M115 670C115 667.791 116.791  666 119 670H151C153.209 670 155 671.791 155 674V686H119C116.791 686 115 684.209 115 682V670Z"
                   fill="#ABB0B5" />
                 <text id="other_74" fill="#932027" xml:space="preserve" style="white-space: pre"
                   font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="678.591">ENG</tspan></text>
