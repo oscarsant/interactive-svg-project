@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Interactive SVG Control</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <object id="svgObject" type="image/svg+xml" data="icon.svg"></object>
+  </div>
+
+  <script>
+    const svgObject = document.getElementById("svgObject");
+    const hueSlider = document.getElementById("hueSlider");
+
+    svgObject.addEventListener("load", () => {
+      const svgDoc = svgObject.contentDocument;
+      const circle = svgDoc.getElementById("main-circle");
+
+      hueSlider.addEventListener("input", () => {
+        const hue = hueSlider.value;
+        circle.style.fill = `hsl(${hue}, 100%, 50%)`;
+      });
+    });
+  </script>
+</body>
+</html>
