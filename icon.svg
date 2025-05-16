@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 322 950" xmlns="http://www.w3.org/2000/svg">
+<svg width="290" height="902" viewBox="0 0 290 902" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Add Google Fonts link for Inter font -->
     <style><![CDATA[
@@ -7,132 +7,124 @@
     ]]></style>
   </defs>
   <style>
-    svg text {
-    }
-      
-  </style>
+    <!-- svg text {
+    font-size: 9px; /* Set the default font size */
+    } -->
 
+  </style>
   <g id="5 BIG LEAGUES">
-    <!-- <rect width="322" height="950" rx="12" fill="#0F1826" />
-    <g id="Frame 7">
-      <g id="Frame 9">
-        <g id="Components ">
-          <text id="Champions League" fill="#929CA0" xml:space="preserve" style="white-space: pre"
-            font-family="Inter" font-size="8" font-weight="500" letter-spacing="3px"><tspan x="113.449" y="21.8182">5 BIG LEAGUES</tspan></text>
-        </g>
+    <rect width="290" height="902" rx="12" fill="#0F1826" />
+    <g id="Frame 9">
+      <g id="Components ">
+        <text id="Champions League" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
+          style="white-space: pre" font-family="Inter" font-size="8" font-weight="500"
+          letter-spacing="1px"><tspan x="61.3516" y="5.81818">UCL</tspan></text>
       </g>
-    </g> -->
-    <g id="Frame 9_2">
       <g id="Components _2">
         <text id="Champions League_2" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-          style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-          letter-spacing="3px"><tspan x="77.3887" y="38.3636">UCL</tspan></text>
-      </g>
-      <g id="Components _3">
-        <text id="Champions League_3" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-          style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-          letter-spacing="3px"><tspan x="226.787" y="38.3636">UEL</tspan></text>
+          style="white-space: pre" font-family="Inter" font-size="8" font-weight="500"
+          letter-spacing="1px"><tspan x="210.883" y="5.81818">UEL</tspan></text>
       </g>
     </g>
     <g id="Frame 8">
       <g id="Frame">
-        <line id="Line 3" x1="161" y1="37.0824" x2="161" y2="892.924" stroke="white"
+        <line id="Line 3" x1="144.937" y1="4.08238" x2="144.937" y2="902.068" stroke="white"
           stroke-opacity="0.15" />
         <g id="Frame_2">
-          <rect x="153" y="37" width="16" height="16" rx="4" fill="#0F1826" />
+          <rect x="136" y="4" width="18" height="17" rx="4" fill="#0F1826" />
           <text id="2009" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.38" y="47.3636">2009</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.11" y="15.0909">2009</tspan></text>
         </g>
         <g id="Frame_3">
-          <rect x="153.5" y="93" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="60" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2010" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.869" y="103.364">2010</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.681" y="71.0909">2010</tspan></text>
         </g>
         <g id="Frame_4">
-          <rect x="154" y="149" width="14" height="16" rx="4" fill="#0F1826" />
+          <rect x="137" y="116" width="16" height="17" rx="4" fill="#0F1826" />
           <text id="2011" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="154.388" y="159.364">2011</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="137.286" y="127.091">2011</tspan></text>
         </g>
         <g id="Frame_5">
-          <rect x="153.5" y="205" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="172" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2012" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.966" y="215.364">2012</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.793" y="183.091">2012</tspan></text>
         </g>
         <g id="Frame_6">
-          <rect x="153.5" y="261" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="228" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2013" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.872" y="271.364">2013</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.684" y="239.091">2013</tspan></text>
         </g>
         <g id="Frame_7">
-          <rect x="153.5" y="317" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="284" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2014" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.843" y="327.364">2014</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.65" y="295.091">2014</tspan></text>
         </g>
         <g id="Frame_8">
-          <rect x="153.5" y="373" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="340" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2015" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.945" y="383.364">2015</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.77" y="351.091">2015</tspan></text>
         </g>
         <g id="Frame_9">
-          <rect x="153.5" y="429" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="396" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2016" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.898" y="439.364">2016</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.715" y="407.091">2016</tspan></text>
         </g>
         <g id="Frame_10">
-          <rect x="154" y="485" width="14" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="452" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2017" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="154.068" y="495.364">2017</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.913" y="463.091">2017</tspan></text>
         </g>
         <g id="Frame_11">
-          <rect x="153.5" y="541" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="508" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2018" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.91" y="551.364">2018</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.729" y="519.091">2018</tspan></text>
         </g>
         <g id="Frame_12">
-          <rect x="153.5" y="597" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="564" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2019" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.898" y="607.364">2019</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.715" y="575.091">2019</tspan></text>
         </g>
         <g id="Frame_13">
-          <rect x="153" y="653" width="16" height="16" rx="4" fill="#0F1826" />
+          <rect x="136" y="620" width="18" height="17" rx="4" fill="#0F1826" />
           <text id="2020" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.447" y="663.364">2020</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.188" y="631.091">2020</tspan></text>
         </g>
         <g id="Frame_14">
-          <rect x="153.5" y="709" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136.5" y="676" width="17" height="17" rx="4" fill="#0F1826" />
           <text id="2021" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.966" y="719.364">2021</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.793" y="687.091">2021</tspan></text>
         </g>
         <g id="Frame_15">
-          <rect x="153.5" y="765" width="15" height="16" rx="4" fill="#0F1826" />
+          <rect x="136" y="732" width="18" height="17" rx="4" fill="#0F1826" />
           <text id="2022" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.544" y="775.364">2022</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.301" y="743.091">2022</tspan></text>
         </g>
         <g id="Frame_16">
-          <rect x="153" y="821" width="16" height="16" rx="4" fill="#0F1826" />
+          <rect x="136" y="788" width="18" height="17" rx="4" fill="#0F1826" />
           <text id="2023" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.45" y="831.364">2023</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.192" y="799.091">2023</tspan></text>
         </g>
         <g id="Frame_17">
-          <rect x="153" y="877" width="16" height="16" rx="4" fill="#0F1826" />
+          <rect x="136" y="844" width="18" height="17" rx="4" fill="#0F1826" />
           <text id="2024" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-            style="white-space: pre" font-family="Inter" font-size="6" font-weight="500"
-            letter-spacing="0em"><tspan x="153.468" y="887.364">2024</tspan></text>
+            style="white-space: pre" font-family="Inter" font-size="7" font-weight="500"
+            letter-spacing="0em"><tspan x="136.212" y="855.091">2024</tspan></text>
         </g>
       </g>
       <g id="Frame 2">
@@ -140,24 +132,24 @@
           <g id="Frame 5">
             <g id="team country 2nd left">
               <text id="other" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="51.6289" y="62.5909">Inter Milan [W]</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="28.8086" y="31.0455">Inter Milan [W]</tspan></text>
               <g id="team country 2nd/Variant7">
                 <path id="Rectangle 1"
-                  d="M115 54C115 51.7909 116.791 50 119 50H151C153.209 50 155 51.7909 155 54V70H119C116.791 70 115 68.2091 115 66V54Z"
+                  d="M99 22C99 19.7909 100.791 18 103 18H135C137.209 18 139 19.7909 139 22V38H103C100.791 38 99 36.2091 99 34V22Z"
                   fill="#2C5DA1" />
                 <text id="other_2" fill="#9FA3A8" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="129.004" y="62.5909">ITA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="113.004" y="30.5909">ITA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_2">
               <text id="other_3" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="52.041" y="86.5909">Bayern Munich</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="13.2432" y="55.0455">Bayern Munich [R]</tspan></text>
               <g id="team country 2nd/Variant7_2">
                 <path id="Rectangle 1_2"
-                  d="M115 78C115 75.7909 116.791 74 119 74H151C153.209 74 155 75.7909 155 78V94H119C116.791 94 115 92.2091 115 90V78Z"
+                  d="M99 46C99 43.7909 100.791 42 103 42H135C137.209 42 139 43.7909 139 46V62H103C100.791 62 99 60.2091 99 58V46Z"
                   fill="#9F8137" />
                 <text id="other_4" fill="#060A0F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.456" y="86.5909">GER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.456" y="54.5909">GER</tspan></text>
               </g>
             </g>
           </g>
@@ -168,26 +160,26 @@
               <g id="team country 2nd/Variant7_3">
                 <g clip-path="url(#clip2_1112_5662)">
                   <path
-                    d="M167 54C167 51.7909 168.791 50 171 50H203C205.209 50 207 51.7909 207 54V66C207 68.2091 205.209 70 203 70H167V54Z"
+                    d="M151 22C151 19.7909 152.791 18 155 18H187C189.209 18 191 19.7909 191 22V34C191 36.2091 189.209 38 187 38H151V22Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_3" x="167" y="50" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_3" x="151" y="18" width="40" height="20" fill="#8E0A27" />
                   <text id="other_5" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="62.5909">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="30.5909">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="62.5909">[W] Atl&#xe9;tico Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="31.0455">[W] Atl&#xe9;tico Madrid</tspan></text>
             </g>
             <g id="team country 2nd right_2">
               <g id="team country 2nd/Variant7_4" clip-path="url(#clip3_1112_5662)">
                 <path id="Rectangle 1_4"
-                  d="M167 78C167 75.7909 168.791 74 171 74H203C205.209 74 207 75.7909 207 78V90C207 92.2091 205.209 94 203 94H167V78Z"
+                  d="M151 46C151 43.7909 152.791 42 155 42H187C189.209 42 191 43.7909 191 46V58C191 60.2091 189.209 62 187 62H151V46Z"
                   fill="#ABAFB5" />
                 <text id="other_6" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.138" y="86.5909">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.138" y="54.5909">ENG</tspan></text>
               </g>
               <text id="other_7" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="86.5909">Fulham</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="55.0455">[R] Fulham</tspan></text>
             </g>
           </g>
         </g>
@@ -195,24 +187,24 @@
           <g id="Frame 5_3">
             <g id="team country 2nd left_3">
               <text id="SPAIN_2" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="70.1533" y="118.591">Barcelona</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="48.7686" y="87.0455">Barcelona</tspan></text>
               <g id="team country 2nd/Variant7_5">
                 <path id="Rectangle 1_5"
-                  d="M115 110C115 107.791 116.791 106 119 106H151C153.209 106 155 107.791 155 110V126H119C116.791 126 115 124.209 115 122V110Z"
+                  d="M99 78C99 75.7909 100.791 74 103 74H135C137.209 74 139 75.7909 139 78V94H103C100.791 94 99 92.2091 99 90V78Z"
                   fill="#8E0A27" />
                 <text id="other_8" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="118.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="86.5909">SPA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_4">
               <text id="other_9" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="35.9385" y="142.591">Manchester United</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="9.9209" y="111.045">Manchester United</tspan></text>
               <g id="team country 2nd/Variant7_6">
                 <path id="Rectangle 1_6"
-                  d="M115 134C115 131.791 116.791 130 119 130H151C153.209 130 155 131.791 155 134V150H119C116.791 150 115 148.209 115 146V134Z"
+                  d="M99 102C99 99.7909 100.791 98 103 98H135C137.209 98 139 99.7909 139 102V118H103C100.791 118 99 116.209 99 114V102Z"
                   fill="#ABB0B5" />
                 <text id="other_10" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="142.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.138" y="110.591">ENG</tspan></text>
               </g>
             </g>
           </g>
@@ -222,24 +214,24 @@
             <g id="team country 2nd right_3">
               <g id="team country 2nd/Variant7_7" clip-path="url(#clip6_1112_5662)">
                 <path id="Rectangle 1_7"
-                  d="M167 110C167 107.791 168.791 106 171 106H203C205.209 106 207 107.791 207 110V122C207 124.209 205.209 126 203 126H167V110Z"
+                  d="M151 78C151 75.7909 152.791 74 155 74H187C189.209 74 191 75.7909 191 78V90C191 92.2091 189.209 94 187 94H151V78Z"
                   fill="#738394" fill-opacity="0.25" />
                 <text id="other_11" fill="#54514F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="173.085" y="118.591">OTHER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="157.085" y="86.5909">OTHER</tspan></text>
               </g>
               <text id="other_12" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="118.591">Porto</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="87.0455">Porto</tspan></text>
             </g>
             <g id="team country 2nd right_4">
               <g id="team country 2nd/Variant7_8" clip-path="url(#clip7_1112_5662)">
                 <path id="Rectangle 1_8"
-                  d="M167 134C167 131.791 168.791 130 171 130H203C205.209 130 207 131.791 207 134V146C207 148.209 205.209 150 203 150H167V134Z"
+                  d="M151 102C151 99.7909 152.791 98 155 98H187C189.209 98 191 99.7909 191 102V114C191 116.209 189.209 118 187 118H151V102Z"
                   fill="#738394" fill-opacity="0.25" />
                 <text id="other_13" fill="#54514F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="173.085" y="142.591">OTHER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="157.085" y="110.591">OTHER</tspan></text>
               </g>
               <text id="other_14" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="142.591">Braga</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="111.045">Braga</tspan></text>
             </g>
           </g>
         </g>
@@ -247,24 +239,24 @@
           <g id="Frame 5_5">
             <g id="team country 2nd left_5">
               <text id="other_15" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="77.3604" y="174.591">Chelsea</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="56.749" y="143.045">Chelsea</tspan></text>
               <g id="team country 2nd/Variant7_9">
                 <path id="Rectangle 1_9"
-                  d="M115 166C115 163.791 116.791 162 119 162H151C153.209 162 155 163.791 155 166V182H119C116.791 182 115 180.209 115 178V166Z"
+                  d="M99 134C99 131.791 100.791 130 103 130H135C137.209 130 139 131.791 139 134V150H103C100.791 150 99 148.209 99 146V134Z"
                   fill="#ABB0B5" />
                 <text id="other_16" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="174.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.138" y="142.591">ENG</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_6">
               <text id="other_17" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="52.041" y="198.591">Bayern Munich</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="28.0527" y="167.045">Bayern Munich</tspan></text>
               <g id="team country 2nd/Variant7_10">
                 <path id="Rectangle 1_10"
-                  d="M115 190C115 187.791 116.791 186 119 186H151C153.209 186 155 187.791 155 190V206H119C116.791 206 115 204.209 115 202V190Z"
+                  d="M99 158C99 155.791 100.791 154 103 154H135C137.209 154 139 155.791 139 158V174H103C100.791 174 99 172.209 99 170V158Z"
                   fill="#9F8137" />
                 <text id="other_18" fill="#060A0F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.456" y="198.591">GER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.456" y="166.591">GER</tspan></text>
               </g>
             </g>
           </g>
@@ -275,29 +267,29 @@
               <g id="team country 2nd/Variant7_11">
                 <g clip-path="url(#clip10_1112_5662)">
                   <path
-                    d="M167 166C167 163.791 168.791 162 171 162H203C205.209 162 207 163.791 207 166V178C207 180.209 205.209 182 203 182H167V166Z"
+                    d="M151 134C151 131.791 152.791 130 155 130H187C189.209 130 191 131.791 191 134V146C191 148.209 189.209 150 187 150H151V134Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_11" x="167" y="162" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_11" x="151" y="130" width="40" height="20" fill="#8E0A27" />
                   <text id="other_19" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="174.591">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="142.591">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN_3" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="174.591">Atl&#xe9;tico Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="143.045">Atl&#xe9;tico Madrid</tspan></text>
             </g>
             <g id="team country 2nd right_6">
               <g id="team country 2nd/Variant7_12">
                 <g clip-path="url(#clip11_1112_5662)">
                   <path
-                    d="M167 190C167 187.791 168.791 186 171 186H203C205.209 186 207 187.791 207 190V202C207 204.209 205.209 206 203 206H167V190Z"
+                    d="M151 158C151 155.791 152.791 154 155 154H187C189.209 154 191 155.791 191 158V170C191 172.209 189.209 174 187 174H151V158Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_12" x="167" y="186" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_12" x="151" y="154" width="40" height="20" fill="#8E0A27" />
                   <text id="other_20" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="198.591">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="166.591">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN_4" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="198.591">Athletic Bilbao</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="167.045">Athletic Bilbao</tspan></text>
             </g>
           </g>
         </g>
@@ -305,24 +297,24 @@
           <g id="Frame 5_7">
             <g id="team country 2nd left_7">
               <text id="other_21" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="52.041" y="230.591">Bayern Munich</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="28.0527" y="199.045">Bayern Munich</tspan></text>
               <g id="team country 2nd/Variant7_13">
                 <path id="Rectangle 1_13"
-                  d="M115 222C115 219.791 116.791 218 119 218H151C153.209 218 155 219.791 155 222V238H119C116.791 238 115 236.209 115 234V222Z"
+                  d="M99 190C99 187.791 100.791 186 103 186H135C137.209 186 139 187.791 139 190V206H103C100.791 206 99 204.209 99 202V190Z"
                   fill="#9F8137" />
                 <text id="other_22" fill="#060A0F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.456" y="230.591">GER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.456" y="198.591">GER</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_8">
               <text id="other_23" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="35.5215" y="254.591">Borussia Dortmund</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="9.38477" y="223.045">Borussia Dortmund</tspan></text>
               <g id="team country 2nd/Variant7_14">
                 <path id="Rectangle 1_14"
-                  d="M115 246C115 243.791 116.791 242 119 242H151C153.209 242 155 243.791 155 246V262H119C116.791 262 115 260.209 115 258V246Z"
+                  d="M99 214C99 211.791 100.791 210 103 210H135C137.209 210 139 211.791 139 214V230H103C100.791 230 99 228.209 99 226V214Z"
                   fill="#9F8137" />
                 <text id="other_24" fill="#060A0F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.456" y="254.591">GER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.456" y="222.591">GER</tspan></text>
               </g>
             </g>
           </g>
@@ -332,24 +324,24 @@
             <g id="team country 2nd right_7">
               <g id="team country 2nd/Variant7_15" clip-path="url(#clip14_1112_5662)">
                 <path id="Rectangle 1_15"
-                  d="M167 222C167 219.791 168.791 218 171 218H203C205.209 218 207 219.791 207 222V234C207 236.209 205.209 238 203 238H167V222Z"
+                  d="M151 190C151 187.791 152.791 186 155 186H187C189.209 186 191 187.791 191 190V202C191 204.209 189.209 206 187 206H151V190Z"
                   fill="#ABAFB5" />
                 <text id="other_25" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.138" y="230.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.138" y="198.591">ENG</tspan></text>
               </g>
               <text id="other_26" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="230.591">Chelsea</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="199.045">Chelsea</tspan></text>
             </g>
             <g id="team country 2nd right_8">
               <g id="team country 2nd/Variant7_16" clip-path="url(#clip15_1112_5662)">
                 <path id="Rectangle 1_16"
-                  d="M167 246C167 243.791 168.791 242 171 242H203C205.209 242 207 243.791 207 246V258C207 260.209 205.209 262 203 262H167V246Z"
+                  d="M151 214C151 211.791 152.791 210 155 210H187C189.209 210 191 211.791 191 214V226C191 228.209 189.209 230 187 230H151V214Z"
                   fill="#738394" fill-opacity="0.25" />
                 <text id="other_27" fill="#54514F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="173.085" y="254.591">OTHER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="157.085" y="222.591">OTHER</tspan></text>
               </g>
               <text id="other_28" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="254.591">Benfica</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="223.045">Benfica</tspan></text>
             </g>
           </g>
         </g>
@@ -357,24 +349,24 @@
           <g id="Frame 5_9">
             <g id="team country 2nd left_9">
               <text id="SPAIN_5" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="62.7822" y="286.591">Real Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="40.5771" y="255.045">Real Madrid</tspan></text>
               <g id="team country 2nd/Variant7_17">
                 <path id="Rectangle 1_17"
-                  d="M115 278C115 275.791 116.791 274 119 274H151C153.209 274 155 275.791 155 278V294H119C116.791 294 115 292.209 115 290V278Z"
+                  d="M99 246C99 243.791 100.791 242 103 242H135C137.209 242 139 243.791 139 246V262H103C100.791 262 99 260.209 99 258V246Z"
                   fill="#8E0A27" />
                 <text id="other_29" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="286.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="254.591">SPA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_10">
               <text id="SPAIN_6" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="49.7559" y="310.591">Atl&#xe9;tico Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="26.4004" y="279.045">Atl&#xe9;tico Madrid</tspan></text>
               <g id="team country 2nd/Variant7_18">
                 <path id="Rectangle 1_18"
-                  d="M115 302C115 299.791 116.791 298 119 298H151C153.209 298 155 299.791 155 302V318H119C116.791 318 115 316.209 115 314V302Z"
+                  d="M99 270C99 267.791 100.791 266 103 266H135C137.209 266 139 267.791 139 270V286H103C100.791 286 99 284.209 99 282V270Z"
                   fill="#8E0A27" />
                 <text id="other_30" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="310.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="278.591">SPA</tspan></text>
               </g>
             </g>
           </g>
@@ -385,26 +377,26 @@
               <g id="team country 2nd/Variant7_19">
                 <g clip-path="url(#clip18_1112_5662)">
                   <path
-                    d="M167 278C167 275.791 168.791 274 171 274H203C205.209 274 207 275.791 207 278V290C207 292.209 205.209 294 203 294H167V278Z"
+                    d="M151 246C151 243.791 152.791 242 155 242H187C189.209 242 191 243.791 191 246V258C191 260.209 189.209 262 187 262H151V246Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_19" x="167" y="274" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_19" x="151" y="242" width="40" height="20" fill="#8E0A27" />
                   <text id="other_31" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="286.591">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="254.591">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN_7" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="286.591">Sevilla</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="255.045">Sevilla</tspan></text>
             </g>
             <g id="team country 2nd right_10">
               <g id="team country 2nd/Variant7_20" clip-path="url(#clip19_1112_5662)">
                 <path id="Rectangle 1_20"
-                  d="M167 302C167 299.791 168.791 298 171 298H203C205.209 298 207 299.791 207 302V314C207 316.209 205.209 318 203 318H167V302Z"
+                  d="M151 270C151 267.791 152.791 266 155 266H187C189.209 266 191 267.791 191 270V282C191 284.209 189.209 286 187 286H151V270Z"
                   fill="#738394" fill-opacity="0.25" />
                 <text id="other_32" fill="#54514F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="173.085" y="310.591">OTHER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="157.085" y="278.591">OTHER</tspan></text>
               </g>
               <text id="other_33" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="310.591">Benfica</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="279.045">Benfica</tspan></text>
             </g>
           </g>
         </g>
@@ -412,24 +404,24 @@
           <g id="Frame 5_11">
             <g id="team country 2nd left_11">
               <text id="SPAIN_8" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="70.1533" y="342.591">Barcelona</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="48.7686" y="311.045">Barcelona</tspan></text>
               <g id="team country 2nd/Variant7_21">
                 <path id="Rectangle 1_21"
-                  d="M115 334C115 331.791 116.791 330 119 330H151C153.209 330 155 331.791 155 334V350H119C116.791 350 115 348.209 115 346V334Z"
+                  d="M99 302C99 299.791 100.791 298 103 298H135C137.209 298 139 299.791 139 302V318H103C100.791 318 99 316.209 99 314V302Z"
                   fill="#8E0A27" />
                 <text id="other_34" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="342.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="310.591">SPA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_12">
               <text id="other_35" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="73.4355" y="366.591">Juventus</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="52.3457" y="335.045">Juventus</tspan></text>
               <g id="team country 2nd/Variant7_22">
                 <path id="Rectangle 1_22"
-                  d="M115 358C115 355.791 116.791 354 119 354H151C153.209 354 155 355.791 155 358V374H119C116.791 374 115 372.209 115 370V358Z"
+                  d="M99 326C99 323.791 100.791 322 103 322H135C137.209 322 139 323.791 139 326V342H103C100.791 342 99 340.209 99 338V326Z"
                   fill="#2C5DA1" />
                 <text id="other_36" fill="#9FA3A8" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="129.004" y="366.591">ITA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="113.004" y="334.591">ITA</tspan></text>
               </g>
             </g>
           </g>
@@ -440,26 +432,26 @@
               <g id="team country 2nd/Variant7_23">
                 <g clip-path="url(#clip22_1112_5662)">
                   <path
-                    d="M167 334C167 331.791 168.791 330 171 330H203C205.209 330 207 331.791 207 334V346C207 348.209 205.209 350 203 350H167V334Z"
+                    d="M151 302C151 299.791 152.791 298 155 298H187C189.209 298 191 299.791 191 302V314C191 316.209 189.209 318 187 318H151V302Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_23" x="167" y="330" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_23" x="151" y="298" width="40" height="20" fill="#8E0A27" />
                   <text id="other_37" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="342.591">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="310.591">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN_9" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="342.591">Sevilla</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="311.045">Sevilla</tspan></text>
             </g>
             <g id="team country 2nd right_12">
               <g id="team country 2nd/Variant7_24" clip-path="url(#clip23_1112_5662)">
                 <path id="Rectangle 1_24"
-                  d="M167 358C167 355.791 168.791 354 171 354H203C205.209 354 207 355.791 207 358V370C207 372.209 205.209 374 203 374H167V358Z"
+                  d="M151 326C151 323.791 152.791 322 155 322H187C189.209 322 191 323.791 191 326V338C191 340.209 189.209 342 187 342H151V326Z"
                   fill="#738394" fill-opacity="0.25" />
                 <text id="other_38" fill="#54514F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="173.085" y="366.591">OTHER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="157.085" y="334.591">OTHER</tspan></text>
               </g>
               <text id="other_39" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="366.591">Dnipro</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="335.045">Dnipro</tspan></text>
             </g>
           </g>
         </g>
@@ -467,24 +459,24 @@
           <g id="Frame 5_13">
             <g id="team country 2nd left_13">
               <text id="SPAIN_10" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="62.7822" y="398.591">Real Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="40.5771" y="367.045">Real Madrid</tspan></text>
               <g id="team country 2nd/Variant7_25">
                 <path id="Rectangle 1_25"
-                  d="M115 390C115 387.791 116.791 386 119 386H151C153.209 386 155 387.791 155 390V406H119C116.791 406 115 404.209 115 402V390Z"
+                  d="M99 358C99 355.791 100.791 354 103 354H135C137.209 354 139 355.791 139 358V374H103C100.791 374 99 372.209 99 370V358Z"
                   fill="#8E0A27" />
                 <text id="other_40" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="398.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="366.591">SPA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_14">
               <text id="SPAIN_11" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="49.7559" y="422.591">Atl&#xe9;tico Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="26.4004" y="391.045">Atl&#xe9;tico Madrid</tspan></text>
               <g id="team country 2nd/Variant7_26">
                 <path id="Rectangle 1_26"
-                  d="M115 414C115 411.791 116.791 410 119 410H151C153.209 410 155 411.791 155 414V430H119C116.791 430 115 428.209 115 426V414Z"
+                  d="M99 382C99 379.791 100.791 378 103 378H135C137.209 378 139 379.791 139 382V398H103C100.791 398 99 396.209 99 394V382Z"
                   fill="#8E0A27" />
                 <text id="other_41" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="422.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="390.591">SPA</tspan></text>
               </g>
             </g>
           </g>
@@ -495,26 +487,26 @@
               <g id="team country 2nd/Variant7_27">
                 <g clip-path="url(#clip26_1112_5662)">
                   <path
-                    d="M167 390C167 387.791 168.791 386 171 386H203C205.209 386 207 387.791 207 390V402C207 404.209 205.209 406 203 406H167V390Z"
+                    d="M151 358C151 355.791 152.791 354 155 354H187C189.209 354 191 355.791 191 358V370C191 372.209 189.209 374 187 374H151V358Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_27" x="167" y="386" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_27" x="151" y="354" width="40" height="20" fill="#8E0A27" />
                   <text id="other_42" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="398.591">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="366.591">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN_12" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="398.591">Sevilla</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="367.045">Sevilla</tspan></text>
             </g>
             <g id="team country 2nd right_14">
               <g id="team country 2nd/Variant7_28" clip-path="url(#clip27_1112_5662)">
                 <path id="Rectangle 1_28"
-                  d="M167 414C167 411.791 168.791 410 171 410H203C205.209 410 207 411.791 207 414V426C207 428.209 205.209 430 203 430H167V414Z"
+                  d="M151 382C151 379.791 152.791 378 155 378H187C189.209 378 191 379.791 191 382V394C191 396.209 189.209 398 187 398H151V382Z"
                   fill="#ABAFB5" />
                 <text id="other_43" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.138" y="422.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.138" y="390.591">ENG</tspan></text>
               </g>
               <text id="other_44" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="422.591">Liverpool</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="391.045">Liverpool</tspan></text>
             </g>
           </g>
         </g>
@@ -522,24 +514,24 @@
           <g id="Frame 5_15">
             <g id="team country 2nd left_15">
               <text id="SPAIN_13" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="62.7822" y="454.591">Real Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="40.5771" y="423.045">Real Madrid</tspan></text>
               <g id="team country 2nd/Variant7_29">
                 <path id="Rectangle 1_29"
-                  d="M115 446C115 443.791 116.791 442 119 442H151C153.209 442 155 443.791 155 446V462H119C116.791 462 115 460.209 115 458V446Z"
+                  d="M99 414C99 411.791 100.791 410 103 410H135C137.209 410 139 411.791 139 414V430H103C100.791 430 99 428.209 99 426V414Z"
                   fill="#8E0A27" />
                 <text id="other_45" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="454.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="422.591">SPA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_16">
               <text id="other_46" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="73.4355" y="478.591">Juventus</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="52.3457" y="447.045">Juventus</tspan></text>
               <g id="team country 2nd/Variant7_30">
                 <path id="Rectangle 1_30"
-                  d="M115 470C115 467.791 116.791 466 119 466H151C153.209 466 155 467.791 155 470V486H119C116.791 486 115 484.209 115 482V470Z"
+                  d="M99 438C99 435.791 100.791 434 103 434H135C137.209 434 139 435.791 139 438V454H103C100.791 454 99 452.209 99 450V438Z"
                   fill="#2C5DA1" />
                 <text id="other_47" fill="#9FA3A8" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="129.004" y="478.591">ITA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="113.004" y="446.591">ITA</tspan></text>
               </g>
             </g>
           </g>
@@ -549,24 +541,24 @@
             <g id="team country 2nd right_15">
               <g id="team country 2nd/Variant7_31" clip-path="url(#clip30_1112_5662)">
                 <path id="Rectangle 1_31"
-                  d="M167 446C167 443.791 168.791 442 171 442H203C205.209 442 207 443.791 207 446V458C207 460.209 205.209 462 203 462H167V446Z"
+                  d="M151 414C151 411.791 152.791 410 155 410H187C189.209 410 191 411.791 191 414V426C191 428.209 189.209 430 187 430H151V414Z"
                   fill="#ABAFB5" />
                 <text id="other_48" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.138" y="454.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.138" y="422.591">ENG</tspan></text>
               </g>
               <text id="other_49" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="454.591">Manchester United</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="423.045">Manchester United</tspan></text>
             </g>
             <g id="team country 2nd right_16">
               <g id="team country 2nd/Variant7_32" clip-path="url(#clip31_1112_5662)">
                 <path id="Rectangle 1_32"
-                  d="M167 470C167 467.791 168.791 466 171 466H203C205.209 466 207 467.791 207 470V482C207 484.209 205.209 486 203 486H167V470Z"
+                  d="M151 438C151 435.791 152.791 434 155 434H187C189.209 434 191 435.791 191 438V450C191 452.209 189.209 454 187 454H151V438Z"
                   fill="#738394" fill-opacity="0.25" />
                 <text id="other_50" fill="#54514F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="173.085" y="478.591">OTHER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="157.085" y="446.591">OTHER</tspan></text>
               </g>
               <text id="other_51" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="478.591">Ajax</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="447.045">Ajax</tspan></text>
             </g>
           </g>
         </g>
@@ -574,24 +566,24 @@
           <g id="Frame 5_17">
             <g id="team country 2nd left_17">
               <text id="SPAIN_14" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="62.7822" y="510.591">Real Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="40.5771" y="479.045">Real Madrid</tspan></text>
               <g id="team country 2nd/Variant7_33">
                 <path id="Rectangle 1_33"
-                  d="M115 502C115 499.791 116.791 498 119 498H151C153.209 498 155 499.791 155 502V518H119C116.791 518 115 516.209 115 514V502Z"
+                  d="M99 470C99 467.791 100.791 466 103 466H135C137.209 466 139 467.791 139 470V486H103C100.791 486 99 484.209 99 482V470Z"
                   fill="#8E0A27" />
                 <text id="other_52" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="510.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="478.591">SPA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_18">
               <text id="other_53" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="72.6826" y="534.591">Liverpool</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="52.0205" y="503.045">Liverpool</tspan></text>
               <g id="team country 2nd/Variant7_34">
                 <path id="Rectangle 1_34"
-                  d="M115 526C115 523.791 116.791 522 119 522H151C153.209 522 155 523.791 155 526V542H119C116.791 542 115 540.209 115 538V526Z"
+                  d="M99 494C99 491.791 100.791 490 103 490H135C137.209 490 139 491.791 139 494V510H103C100.791 510 99 508.209 99 506V494Z"
                   fill="#ABB0B5" />
                 <text id="other_54" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="534.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.138" y="502.591">ENG</tspan></text>
               </g>
             </g>
           </g>
@@ -602,26 +594,26 @@
               <g id="team country 2nd/Variant7_35">
                 <g clip-path="url(#clip34_1112_5662)">
                   <path
-                    d="M167 502C167 499.791 168.791 498 171 498H203C205.209 498 207 499.791 207 502V514C207 516.209 205.209 518 203 518H167V502Z"
+                    d="M151 470C151 467.791 152.791 466 155 466H187C189.209 466 191 467.791 191 470V482C191 484.209 189.209 486 187 486H151V470Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_35" x="167" y="498" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_35" x="151" y="466" width="40" height="20" fill="#8E0A27" />
                   <text id="other_55" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="510.591">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="478.591">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN_15" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="510.591">Atl&#xe9;tico Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="479.045">Atl&#xe9;tico Madrid</tspan></text>
             </g>
             <g id="team country 2nd right_18">
               <g id="team country 2nd/Variant7_36" clip-path="url(#clip35_1112_5662)">
                 <path id="Rectangle 1_36"
-                  d="M167 526C167 523.791 168.791 522 171 522H203C205.209 522 207 523.791 207 526V538C207 540.209 205.209 542 203 542H167V526Z"
+                  d="M151 494C151 491.791 152.791 490 155 490H187C189.209 490 191 491.791 191 494V506C191 508.209 189.209 510 187 510H151V494Z"
                   fill="#0B3767" />
                 <text id="other_56" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.14" y="534.591">FRA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.14" y="502.591">FRA</tspan></text>
               </g>
               <text id="other_57" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="534.591">Marseille</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="503.045">Marseille</tspan></text>
             </g>
           </g>
         </g>
@@ -629,24 +621,24 @@
           <g id="Frame 5_19">
             <g id="team country 2nd left_19">
               <text id="other_58" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="72.6826" y="566.591">Liverpool</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="52.0205" y="535.045">Liverpool</tspan></text>
               <g id="team country 2nd/Variant7_37">
                 <path id="Rectangle 1_37"
-                  d="M115 558C115 555.791 116.791 554 119 554H151C153.209 554 155 555.791 155 558V574H119C116.791 574 115 572.209 115 570V558Z"
+                  d="M99 526C99 523.791 100.791 522 103 522H135C137.209 522 139 523.791 139 526V542H103C100.791 542 99 540.209 99 538V526Z"
                   fill="#ABB0B5" />
                 <text id="other_59" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="566.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.138" y="534.591">ENG</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_20">
               <text id="other_60" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="67.5078" y="590.591">Tottenham</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="45.3672" y="559.045">Tottenham</tspan></text>
               <g id="team country 2nd/Variant7_38">
                 <path id="Rectangle 1_38"
-                  d="M115 582C115 579.791 116.791 578 119 578H151C153.209 578 155 579.791 155 582V598H119C116.791 598 115 596.209 115 594V582Z"
+                  d="M99 550C99 547.791 100.791 546 103 546H135C137.209 546 139 547.791 139 550V566H103C100.791 566 99 564.209 99 562V550Z"
                   fill="#ABB0B5" />
                 <text id="other_61" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="590.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.138" y="558.591">ENG</tspan></text>
               </g>
             </g>
           </g>
@@ -656,24 +648,24 @@
             <g id="team country 2nd right_19">
               <g id="team country 2nd/Variant7_39" clip-path="url(#clip38_1112_5662)">
                 <path id="Rectangle 1_39"
-                  d="M167 558C167 555.791 168.791 554 171 554H203C205.209 554 207 555.791 207 558V570C207 572.209 205.209 574 203 574H167V558Z"
+                  d="M151 526C151 523.791 152.791 522 155 522H187C189.209 522 191 523.791 191 526V538C191 540.209 189.209 542 187 542H151V526Z"
                   fill="#ABAFB5" />
                 <text id="other_62" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.138" y="566.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.138" y="534.591">ENG</tspan></text>
               </g>
               <text id="other_63" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="566.591">Chelsea</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="535.045">Chelsea</tspan></text>
             </g>
             <g id="team country 2nd right_20">
               <g id="team country 2nd/Variant7_40" clip-path="url(#clip39_1112_5662)">
                 <path id="Rectangle 1_40"
-                  d="M167 582C167 579.791 168.791 578 171 578H203C205.209 578 207 579.791 207 582V594C207 596.209 205.209 598 203 598H167V582Z"
+                  d="M151 550C151 547.791 152.791 546 155 546H187C189.209 546 191 547.791 191 550V562C191 564.209 189.209 566 187 566H151V550Z"
                   fill="#ABAFB5" />
                 <text id="other_64" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.138" y="590.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.138" y="558.591">ENG</tspan></text>
               </g>
               <text id="other_65" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="590.591">Arsenal</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="559.045">Arsenal</tspan></text>
             </g>
           </g>
         </g>
@@ -681,24 +673,24 @@
           <g id="Frame 5_21">
             <g id="team country 2nd left_21">
               <text id="other_66" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="52.041" y="622.591">Bayern Munich</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="28.0527" y="591.045">Bayern Munich</tspan></text>
               <g id="team country 2nd/Variant7_41">
                 <path id="Rectangle 1_41"
-                  d="M115 614C115 611.791 116.791 610 119 610H151C153.209 610 155 611.791 155 614V630H119C116.791 630 115 628.209 115 626V614Z"
+                  d="M99 582C99 579.791 100.791 578 103 578H135C137.209 578 139 579.791 139 582V598H103C100.791 598 99 596.209 99 594V582Z"
                   fill="#9F8137" />
                 <text id="other_67" fill="#060A0F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.456" y="622.591">GER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.456" y="590.591">GER</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_22">
               <text id="other_68" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="91.8906" y="646.591">PSG</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="72.8594" y="615.045">PSG</tspan></text>
               <g id="team country 2nd/Variant7_42">
                 <path id="Rectangle 1_42"
-                  d="M115 638C115 635.791 116.791 634 119 634H151C153.209 634 155 635.791 155 638V654H119C116.791 654 115 652.209 115 650V638Z"
+                  d="M99 606C99 603.791 100.791 602 103 602H135C137.209 602 139 603.791 139 606V622H103C100.791 622 99 620.209 99 618V606Z"
                   fill="#0B3767" />
                 <text id="other_69" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.14" y="646.591">FRA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.14" y="614.591">FRA</tspan></text>
               </g>
             </g>
           </g>
@@ -709,26 +701,26 @@
               <g id="team country 2nd/Variant7_43">
                 <g clip-path="url(#clip42_1112_5662)">
                   <path
-                    d="M167 614C167 611.791 168.791 610 171 610H203C205.209 610 207 611.791 207 614V626C207 628.209 205.209 630 203 630H167V614Z"
+                    d="M151 582C151 579.791 152.791 578 155 578H187C189.209 578 191 579.791 191 582V594C191 596.209 189.209 598 187 598H151V582Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_43" x="167" y="610" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_43" x="151" y="578" width="40" height="20" fill="#8E0A27" />
                   <text id="other_70" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="622.591">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="590.591">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN_16" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="622.591">Sevilla</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="591.045">Sevilla</tspan></text>
             </g>
             <g id="team country 2nd right_22">
               <g id="team country 2nd/Variant7_44" clip-path="url(#clip43_1112_5662)">
                 <path id="Rectangle 1_44"
-                  d="M167 638C167 635.791 168.791 634 171 634H203C205.209 634 207 635.791 207 638V650C207 652.209 205.209 654 203 654H167V638Z"
+                  d="M151 606C151 603.791 152.791 602 155 602H187C189.209 602 191 603.791 191 606V618C191 620.209 189.209 622 187 622H151V606Z"
                   fill="#2C5DA1" />
                 <text id="other_71" fill="#9FA3A8" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="181.004" y="646.591">ITA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="165.004" y="614.591">ITA</tspan></text>
               </g>
               <text id="other_72" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="646.591">Inter Milan</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="615.045">Inter Milan</tspan></text>
             </g>
           </g>
         </g>
@@ -736,24 +728,24 @@
           <g id="Frame 5_23">
             <g id="team country 2nd left_23">
               <text id="other_73" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="77.3604" y="678.591">Chelsea</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="56.749" y="647.045">Chelsea</tspan></text>
               <g id="team country 2nd/Variant7_45">
                 <path id="Rectangle 1_45"
-                  d="M115 670C115 667.791 116.791  666 119 670H151C153.209 670 155 671.791 155 674V686H119C116.791 686 115 684.209 115 682V670Z"
+                  d="M99 638C99 635.791 100.791 634 103 634H135C137.209 634 139 635.791 139 638V654H103C100.791 654 99 652.209 99 650V638Z"
                   fill="#ABB0B5" />
                 <text id="other_74" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="678.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.138" y="646.591">ENG</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_24">
               <text id="other_75" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="45.6133" y="702.591">Manchester City</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="21.0742" y="671.045">Manchester City</tspan></text>
               <g id="team country 2nd/Variant7_46">
                 <path id="Rectangle 1_46"
-                  d="M115 694C115 691.791 116.791 690 119 690H151C153.209 690 155 691.791 155 694V710H119C116.791 710 115 708.209 115 706V694Z"
+                  d="M99 662C99 659.791 100.791 658 103 658H135C137.209 658 139 659.791 139 662V678H103C100.791 678 99 676.209 99 674V662Z"
                   fill="#ABB0B5" />
                 <text id="other_76" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="702.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.138" y="670.591">ENG</tspan></text>
               </g>
             </g>
           </g>
@@ -764,26 +756,26 @@
               <g id="team country 2nd/Variant7_47">
                 <g clip-path="url(#clip46_1112_5662)">
                   <path
-                    d="M167 670C167 667.791 168.791 666 171 666H203C205.209 666 207 667.791 207 670V682C207 684.209 205.209 686 203 686H167V670Z"
+                    d="M151 638C151 635.791 152.791 634 155 634H187C189.209 634 191 635.791 191 638V650C191 652.209 189.209 654 187 654H151V638Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_47" x="167" y="666" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_47" x="151" y="634" width="40" height="20" fill="#8E0A27" />
                   <text id="other_77" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="678.591">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="646.591">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN_17" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="678.591">Villarreal</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="647.045">Villarreal</tspan></text>
             </g>
             <g id="team country 2nd right_24">
               <g id="team country 2nd/Variant7_48" clip-path="url(#clip47_1112_5662)">
                 <path id="Rectangle 1_48"
-                  d="M167 694C167 691.791 168.791 690 171 690H203C205.209 690 207 691.791 207 694V706C207 708.209 205.209 710 203 710H167V694Z"
+                  d="M151 662C151 659.791 152.791 658 155 658H187C189.209 658 191 659.791 191 662V674C191 676.209 189.209 678 187 678H151V662Z"
                   fill="#ABAFB5" />
                 <text id="other_78" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.138" y="702.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.138" y="670.591">ENG</tspan></text>
               </g>
               <text id="other_79" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="702.591">Manchester United</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="671.045">Manchester United</tspan></text>
             </g>
           </g>
         </g>
@@ -791,24 +783,24 @@
           <g id="Frame 5_25">
             <g id="team country 2nd left_25">
               <text id="SPAIN_18" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="62.7822" y="734.591">Real Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="40.5771" y="703.045">Real Madrid</tspan></text>
               <g id="team country 2nd/Variant7_49">
                 <path id="Rectangle 1_49"
-                  d="M115 726C115 723.791 116.791 722 119 722H151C153.209 722 155 723.791 155 726V742H119C116.791 742 115 740.209 115 738V726Z"
+                  d="M99 694C99 691.791 100.791 690 103 690H135C137.209 690 139 691.791 139 694V710H103C100.791 710 99 708.209 99 706V694Z"
                   fill="#8E0A27" />
                 <text id="other_80" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="734.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="702.591">SPA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_26">
               <text id="other_81" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="72.6826" y="758.591">Liverpool</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="52.0205" y="727.045">Liverpool</tspan></text>
               <g id="team country 2nd/Variant7_50">
                 <path id="Rectangle 1_50"
-                  d="M115 750C115 747.791 116.791 746 119 746H151C153.209 746 155 747.791 155 750V766H119C116.791 766 115 764.209 115 762V750Z"
+                  d="M99 718C99 715.791 100.791 714 103 714H135C137.209 714 139 715.791 139 718V734H103C100.791 734 99 732.209 99 730V718Z"
                   fill="#ABB0B5" />
                 <text id="other_82" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="758.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.138" y="726.591">ENG</tspan></text>
               </g>
             </g>
           </g>
@@ -818,24 +810,24 @@
             <g id="team country 2nd right_25">
               <g id="team country 2nd/Variant7_51" clip-path="url(#clip50_1112_5662)">
                 <path id="Rectangle 1_51"
-                  d="M167 726C167 723.791 168.791 722 171 722H203C205.209 722 207 723.791 207 726V738C207 740.209 205.209 742 203 742H167V726Z"
+                  d="M151 694C151 691.791 152.791 690 155 690H187C189.209 690 191 691.791 191 694V706C191 708.209 189.209 710 187 710H151V694Z"
                   fill="#9F8137" />
                 <text id="other_83" fill="black" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.456" y="734.591">GER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.456" y="702.591">GER</tspan></text>
               </g>
               <text id="other_84" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="734.591">Eintracht Frankfurt</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="703.045">Eintracht Frankfurt</tspan></text>
             </g>
             <g id="team country 2nd right_26">
               <g id="team country 2nd/Variant7_52" clip-path="url(#clip51_1112_5662)">
                 <path id="Rectangle 1_52"
-                  d="M167 750C167 747.791 168.791 746 171 746H203C205.209 746 207 747.791 207 750V762C207 764.209 205.209 766 203 766H167V750Z"
+                  d="M151 718C151 715.791 152.791 714 155 714H187C189.209 714 191 715.791 191 718V730C191 732.209 189.209 734 187 734H151V718Z"
                   fill="#738394" fill-opacity="0.25" />
                 <text id="other_85" fill="#54514F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="173.085" y="758.591">OTHER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="157.085" y="726.591">OTHER</tspan></text>
               </g>
               <text id="other_86" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="758.591">Rangers</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="727.045">Rangers</tspan></text>
             </g>
           </g>
         </g>
@@ -843,24 +835,24 @@
           <g id="Frame 5_27">
             <g id="team country 2nd left_27">
               <text id="other_87" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="45.6133" y="790.591">Manchester City</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="21.0742" y="759.045">Manchester City</tspan></text>
               <g id="team country 2nd/Variant7_53">
                 <path id="Rectangle 1_53"
-                  d="M115 782C115 779.791 116.791 778 119 778H151C153.209 778 155 779.791 155 782V798H119C116.791 798 115 796.209 115 794V782Z"
+                  d="M99 750C99 747.791 100.791 746 103 746H135C137.209 746 139 747.791 139 750V766H103C100.791 766 99 764.209 99 762V750Z"
                   fill="#ABB0B5" />
                 <text id="other_88" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.138" y="790.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.138" y="758.591">ENG</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_28">
               <text id="other_89" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="67.3145" y="814.591">Inter Milan</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="46.4043" y="783.045">Inter Milan</tspan></text>
               <g id="team country 2nd/Variant7_54">
                 <path id="Rectangle 1_54"
-                  d="M115 806C115 803.791 116.791 802 119 802H151C153.209 802 155 803.791 155 806V822H119C116.791 822 115 820.209 115 818V806Z"
+                  d="M99 774C99 771.791 100.791 770 103 770H135C137.209 770 139 771.791 139 774V790H103C100.791 790 99 788.209 99 786V774Z"
                   fill="#2C5DA1" />
                 <text id="other_90" fill="#9FA3A8" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="129.004" y="814.591">ITA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="113.004" y="782.591">ITA</tspan></text>
               </g>
             </g>
           </g>
@@ -871,26 +863,26 @@
               <g id="team country 2nd/Variant7_55">
                 <g clip-path="url(#clip54_1112_5662)">
                   <path
-                    d="M167 782C167 779.791 168.791 778 171 778H203C205.209 778 207 779.791 207 782V794C207 796.209 205.209 798 203 798H167V782Z"
+                    d="M151 750C151 747.791 152.791 746 155 746H187C189.209 746 191 747.791 191 750V762C191 764.209 189.209 766 187 766H151V750Z"
                     fill="#8E0A27" />
-                  <rect id="Rectangle 1_55" x="167" y="778" width="40" height="20" fill="#8E0A27" />
+                  <rect id="Rectangle 1_55" x="151" y="746" width="40" height="20" fill="#8E0A27" />
                   <text id="other_91" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.226" y="790.591">SPA</tspan></text>
+                    font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.226" y="758.591">SPA</tspan></text>
                 </g>
               </g>
               <text id="SPAIN_19" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="790.591">Sevilla</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="759.045">Sevilla</tspan></text>
             </g>
             <g id="team country 2nd right_28">
               <g id="team country 2nd/Variant7_56" clip-path="url(#clip55_1112_5662)">
                 <path id="Rectangle 1_56"
-                  d="M167 806C167 803.791 168.791 802 171 802H203C205.209 802 207 803.791 207 806V818C207 820.209 205.209 822 203 822H167V806Z"
+                  d="M151 774C151 771.791 152.791 770 155 770H187C189.209 770 191 771.791 191 774V786C191 788.209 189.209 790 187 790H151V774Z"
                   fill="#2C5DA1" />
                 <text id="other_92" fill="#9FA3A8" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="181.004" y="814.591">ITA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="165.004" y="782.591">ITA</tspan></text>
               </g>
               <text id="other_93" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="814.591">Roma</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="783.045">Roma</tspan></text>
             </g>
           </g>
         </g>
@@ -898,24 +890,24 @@
           <g id="Frame 5_29">
             <g id="team country 2nd left_29">
               <text id="SPAIN_20" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="62.7822" y="846.591">Real Madrid</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="40.5771" y="815.045">Real Madrid</tspan></text>
               <g id="team country 2nd/Variant7_57">
                 <path id="Rectangle 1_57"
-                  d="M115 838C115 835.791 116.791 834 119 834H151C153.209 834 155 835.791 155 838V854H119C116.791 854 115 852.209 115 850V838Z"
+                  d="M99 806C99 803.791 100.791 802 103 802H135C137.209 802 139 803.791 139 806V822H103C100.791 822 99 820.209 99 818V806Z"
                   fill="#8E0A27" />
                 <text id="other_94" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.226" y="846.591">SPA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.226" y="814.591">SPA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_30">
               <text id="other_95" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="35.5215" y="870.591">Borussia Dortmund</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="9.38477" y="839.045">Borussia Dortmund</tspan></text>
               <g id="team country 2nd/Variant7_58">
                 <path id="Rectangle 1_58"
-                  d="M115 862C115 859.791 116.791 858 119 858H151C153.209 858 155 859.791 155 862V878H119C116.791 878 115 876.209 115 874V862Z"
+                  d="M99 830C99 827.791 100.791 826 103 826H135C137.209 826 139 827.791 139 830V846H103C100.791 846 99 844.209 99 842V830Z"
                   fill="#9F8137" />
                 <text id="other_96" fill="#060A0F" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.456" y="870.591">GER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.456" y="838.591">GER</tspan></text>
               </g>
             </g>
           </g>
@@ -925,24 +917,24 @@
             <g id="team country 2nd right_29">
               <g id="team country 2nd/Variant7_59" clip-path="url(#clip58_1112_5662)">
                 <path id="Rectangle 1_59"
-                  d="M167 838C167 835.791 168.791 834 171 834H203C205.209 834 207 835.791 207 838V850C207 852.209 205.209 854 203 854H167V838Z"
+                  d="M151 806C151 803.791 152.791 802 155 802H187C189.209 802 191 803.791 191 806V818C191 820.209 189.209 822 187 822H151V806Z"
                   fill="#2C5DA1" />
                 <text id="other_97" fill="#9FA3A8" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="181.004" y="846.591">ITA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="165.004" y="814.591">ITA</tspan></text>
               </g>
               <text id="other_98" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="846.591">Atalanta</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="815.045">Atalanta</tspan></text>
             </g>
             <g id="team country 2nd right_30">
               <g id="team country 2nd/Variant7_60" clip-path="url(#clip59_1112_5662)">
                 <path id="Rectangle 1_60"
-                  d="M167 862C167 859.791 168.791 858 171 858H203C205.209 858 207 859.791 207 862V874C207 876.209 205.209 878 203 878H167V862Z"
+                  d="M151 830C151 827.791 152.791 826 155 826H187C189.209 826 191 827.791 191 830V842C191 844.209 189.209 846 187 846H151V830Z"
                   fill="#9F8137" />
                 <text id="other_99" fill="black" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.456" y="870.591">GER</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.456" y="838.591">GER</tspan></text>
               </g>
               <text id="other_100" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="870.591">Bayer Leverkusen</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="839.045">Bayer Leverkusen</tspan></text>
             </g>
           </g>
         </g>
@@ -950,24 +942,24 @@
           <g id="Frame 5_31">
             <g id="team country 2nd left_31">
               <text id="other_101" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="91.8906" y="902.591">PSG</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="72.8594" y="871.045">PSG</tspan></text>
               <g id="team country 2nd/Variant7_61">
                 <path id="Rectangle 1_61"
-                  d="M115 894C115 891.791 116.791 890 119 890H151C153.209 890 155 891.791 155 894V910H119C116.791 910 115 908.209 115 906V894Z"
+                  d="M99 862C99 859.791 100.791 858 103 858H135C137.209 858 139 859.791 139 862V878H103C100.791 878 99 876.209 99 874V862Z"
                   fill="#0B3767" />
                 <text id="other_102" fill="#9F8137" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="127.14" y="902.591">FRA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="111.14" y="870.591">FRA</tspan></text>
               </g>
             </g>
             <g id="team country 2nd left_32">
               <text id="other_103" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="67.3145" y="926.591">Inter Milan</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="46.4043" y="895.045">Inter Milan</tspan></text>
               <g id="team country 2nd/Variant7_62">
                 <path id="Rectangle 1_62"
-                  d="M115 918C115 915.791 116.791 914 119 914H151C153.209 914 155 915.791 155 918V934H119C116.791 934 115 932.209 115 930V918Z"
+                  d="M99 886C99 883.791 100.791 882 103 882H135C137.209 882 139 883.791 139 886V902H103C100.791 902 99 900.209 99 898V886Z"
                   fill="#2C5DA1" />
                 <text id="other_104" fill="#9FA3A8" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="129.004" y="926.591">ITA</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="113.004" y="894.591">ITA</tspan></text>
               </g>
             </g>
           </g>
@@ -977,24 +969,24 @@
             <g id="team country 2nd right_31">
               <g id="team country 2nd/Variant7_63" clip-path="url(#clip62_1112_5662)">
                 <path id="Rectangle 1_63"
-                  d="M167 894C167 891.791 168.791 890 171 890H203C205.209 890 207 891.791 207 894V906C207 908.209 205.209 910 203 910H167V894Z"
+                  d="M151 862C151 859.791 152.791 858 155 858H187C189.209 858 191 859.791 191 862V874C191 876.209 189.209 878 187 878H151V862Z"
                   fill="#ABAFB5" />
                 <text id="other_105" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.138" y="902.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.138" y="870.591">ENG</tspan></text>
               </g>
               <text id="other_106" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="902.591">Tottenham</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="871.045">Tottenham</tspan></text>
             </g>
             <g id="team country 2nd right_32">
               <g id="team country 2nd/Variant7_64" clip-path="url(#clip63_1112_5662)">
                 <path id="Rectangle 1_64"
-                  d="M167 918C167 915.791 168.791 914 171 914H203C205.209 914 207 915.791 207 918V930C207 932.209 205.209 934 203 934H167V918Z"
+                  d="M151 886C151 883.791 152.791 882 155 882H187C189.209 882 191 883.791 191 886V898C191 900.209 189.209 902 187 902H151V886Z"
                   fill="#ABAFB5" />
                 <text id="other_107" fill="#932027" xml:space="preserve" style="white-space: pre"
-                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="179.138" y="926.591">ENG</tspan></text>
+                  font-family="Inter" font-size="7" font-weight="600" letter-spacing="1px"><tspan x="163.138" y="894.591">ENG</tspan></text>
               </g>
               <text id="other_108" fill="#BCC5D2" fill-opacity="0.5" xml:space="preserve"
-                style="white-space: pre" font-family="Inter" font-size="7" letter-spacing="0.5px"><tspan x="215" y="926.591">Manchester United</tspan></text>
+                style="white-space: pre" font-family="Inter" font-size="9" letter-spacing="0px"><tspan x="199" y="895.045">Manchester United</tspan></text>
             </g>
           </g>
         </g>
@@ -1003,216 +995,216 @@
   </g>
   <defs>
     <clipPath id="clip0_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 50)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 18)" />
     </clipPath>
     <clipPath id="clip1_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 50)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 18)" />
     </clipPath>
     <clipPath id="clip2_1112_5662">
       <path
-        d="M167 54C167 51.7909 168.791 50 171 50H203C205.209 50 207 51.7909 207 54V66C207 68.2091 205.209 70 203 70H167V54Z"
+        d="M151 22C151 19.7909 152.791 18 155 18H187C189.209 18 191 19.7909 191 22V34C191 36.2091 189.209 38 187 38H151V22Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip3_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 74)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 42)" />
     </clipPath>
     <clipPath id="clip4_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 106)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 74)" />
     </clipPath>
     <clipPath id="clip5_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 106)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 74)" />
     </clipPath>
     <clipPath id="clip6_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 106)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 74)" />
     </clipPath>
     <clipPath id="clip7_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 130)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 98)" />
     </clipPath>
     <clipPath id="clip8_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 162)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 130)" />
     </clipPath>
     <clipPath id="clip9_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 162)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 130)" />
     </clipPath>
     <clipPath id="clip10_1112_5662">
       <path
-        d="M167 166C167 163.791 168.791 162 171 162H203C205.209 162 207 163.791 207 166V178C207 180.209 205.209 182 203 182H167V166Z"
+        d="M151 134C151 131.791 152.791 130 155 130H187C189.209 130 191 131.791 191 134V146C191 148.209 189.209 150 187 150H151V134Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip11_1112_5662">
       <path
-        d="M167 190C167 187.791 168.791 186 171 186H203C205.209 186 207 187.791 207 190V202C207 204.209 205.209 206 203 206H167V190Z"
+        d="M151 158C151 155.791 152.791 154 155 154H187C189.209 154 191 155.791 191 158V170C191 172.209 189.209 174 187 174H151V158Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip12_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 218)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 186)" />
     </clipPath>
     <clipPath id="clip13_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 218)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 186)" />
     </clipPath>
     <clipPath id="clip14_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 218)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 186)" />
     </clipPath>
     <clipPath id="clip15_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 242)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 210)" />
     </clipPath>
     <clipPath id="clip16_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 274)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 242)" />
     </clipPath>
     <clipPath id="clip17_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 274)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 242)" />
     </clipPath>
     <clipPath id="clip18_1112_5662">
       <path
-        d="M167 278C167 275.791 168.791 274 171 274H203C205.209 274 207 275.791 207 278V290C207 292.209 205.209 294 203 294H167V278Z"
+        d="M151 246C151 243.791 152.791 242 155 242H187C189.209 242 191 243.791 191 246V258C191 260.209 189.209 262 187 262H151V246Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip19_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 298)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 266)" />
     </clipPath>
     <clipPath id="clip20_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 330)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 298)" />
     </clipPath>
     <clipPath id="clip21_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 330)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 298)" />
     </clipPath>
     <clipPath id="clip22_1112_5662">
       <path
-        d="M167 334C167 331.791 168.791 330 171 330H203C205.209 330 207 331.791 207 334V346C207 348.209 205.209 350 203 350H167V334Z"
+        d="M151 302C151 299.791 152.791 298 155 298H187C189.209 298 191 299.791 191 302V314C191 316.209 189.209 318 187 318H151V302Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip23_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 354)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 322)" />
     </clipPath>
     <clipPath id="clip24_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 386)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 354)" />
     </clipPath>
     <clipPath id="clip25_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 386)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 354)" />
     </clipPath>
     <clipPath id="clip26_1112_5662">
       <path
-        d="M167 390C167 387.791 168.791 386 171 386H203C205.209 386 207 387.791 207 390V402C207 404.209 205.209 406 203 406H167V390Z"
+        d="M151 358C151 355.791 152.791 354 155 354H187C189.209 354 191 355.791 191 358V370C191 372.209 189.209 374 187 374H151V358Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip27_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 410)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 378)" />
     </clipPath>
     <clipPath id="clip28_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 442)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 410)" />
     </clipPath>
     <clipPath id="clip29_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 442)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 410)" />
     </clipPath>
     <clipPath id="clip30_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 442)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 410)" />
     </clipPath>
     <clipPath id="clip31_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 466)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 434)" />
     </clipPath>
     <clipPath id="clip32_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 498)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 466)" />
     </clipPath>
     <clipPath id="clip33_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 498)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 466)" />
     </clipPath>
     <clipPath id="clip34_1112_5662">
       <path
-        d="M167 502C167 499.791 168.791 498 171 498H203C205.209 498 207 499.791 207 502V514C207 516.209 205.209 518 203 518H167V502Z"
+        d="M151 470C151 467.791 152.791 466 155 466H187C189.209 466 191 467.791 191 470V482C191 484.209 189.209 486 187 486H151V470Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip35_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 522)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 490)" />
     </clipPath>
     <clipPath id="clip36_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 554)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 522)" />
     </clipPath>
     <clipPath id="clip37_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 554)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 522)" />
     </clipPath>
     <clipPath id="clip38_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 554)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 522)" />
     </clipPath>
     <clipPath id="clip39_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 578)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 546)" />
     </clipPath>
     <clipPath id="clip40_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 610)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 578)" />
     </clipPath>
     <clipPath id="clip41_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 610)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 578)" />
     </clipPath>
     <clipPath id="clip42_1112_5662">
       <path
-        d="M167 614C167 611.791 168.791 610 171 610H203C205.209 610 207 611.791 207 614V626C207 628.209 205.209 630 203 630H167V614Z"
+        d="M151 582C151 579.791 152.791 578 155 578H187C189.209 578 191 579.791 191 582V594C191 596.209 189.209 598 187 598H151V582Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip43_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 634)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 602)" />
     </clipPath>
     <clipPath id="clip44_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 666)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 634)" />
     </clipPath>
     <clipPath id="clip45_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 666)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 634)" />
     </clipPath>
     <clipPath id="clip46_1112_5662">
       <path
-        d="M167 670C167 667.791 168.791 666 171 666H203C205.209 666 207 667.791 207 670V682C207 684.209 205.209 686 203 686H167V670Z"
+        d="M151 638C151 635.791 152.791 634 155 634H187C189.209 634 191 635.791 191 638V650C191 652.209 189.209 654 187 654H151V638Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip47_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 690)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 658)" />
     </clipPath>
     <clipPath id="clip48_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 722)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 690)" />
     </clipPath>
     <clipPath id="clip49_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 722)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 690)" />
     </clipPath>
     <clipPath id="clip50_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 722)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 690)" />
     </clipPath>
     <clipPath id="clip51_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 746)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 714)" />
     </clipPath>
     <clipPath id="clip52_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 778)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 746)" />
     </clipPath>
     <clipPath id="clip53_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 778)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 746)" />
     </clipPath>
     <clipPath id="clip54_1112_5662">
       <path
-        d="M167 782C167 779.791 168.791 778 171 778H203C205.209 778 207 779.791 207 782V794C207 796.209 205.209 798 203 798H167V782Z"
+        d="M151 750C151 747.791 152.791 746 155 746H187C189.209 746 191 747.791 191 750V762C191 764.209 189.209 766 187 766H151V750Z"
         fill="white" />
     </clipPath>
     <clipPath id="clip55_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 802)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 770)" />
     </clipPath>
     <clipPath id="clip56_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 834)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 802)" />
     </clipPath>
     <clipPath id="clip57_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 834)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 802)" />
     </clipPath>
     <clipPath id="clip58_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 834)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 802)" />
     </clipPath>
     <clipPath id="clip59_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 858)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 826)" />
     </clipPath>
     <clipPath id="clip60_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(16 890)" />
+      <rect width="139" height="44" fill="white" transform="translate(0 858)" />
     </clipPath>
     <clipPath id="clip61_1112_5662">
-      <rect width="139" height="44" fill="white" transform="translate(167 890)" />
+      <rect width="139" height="44" fill="white" transform="translate(151 858)" />
     </clipPath>
     <clipPath id="clip62_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 890)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 858)" />
     </clipPath>
     <clipPath id="clip63_1112_5662">
-      <rect width="40" height="20" fill="white" transform="translate(167 914)" />
+      <rect width="40" height="20" fill="white" transform="translate(151 882)" />
     </clipPath>
   </defs>
 </svg>
