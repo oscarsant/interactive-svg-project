@@ -128,8 +128,6 @@ export function render({ data, mapping, visualOptions, width, height, element, m
   const totalHeight = totalRows * (cellHeight + cellPadding);
 
   // Update SVG and chart size dynamically
-  // svg.attr("width", totalWidth + margin.left + margin.right);
-  // svg.attr("height", totalHeight + margin.top + margin.bottom);
   svg.attr("viewBox", `0 0 ${totalWidth + margin.left + margin.right} ${totalHeight + margin.top + margin.bottom}`);
   chart.attr("width", totalWidth);
   chart.attr("height", totalHeight);
