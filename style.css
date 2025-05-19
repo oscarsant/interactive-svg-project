@@ -10,39 +10,53 @@ body {
 	color: hsla(215, 20%, 78%, 0.5);
 	font-family: "Inter", sans-serif;
 	background: #0e1826;
+	box-sizing: border-box;
+	width: 100vw;
 
+	strong {
+		font-weight: 400;
+	}
+}
+#chart {
+	width: 100vw;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 .container {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	width: 100%;
+	width: 100vw;
+	box-sizing: border-box;
 	height: 100%;
 	color: hsla(215, 20%, 78%, 0.5);
 
-
 	& header {
-		max-width: 420px;
+		max-width: 478px;
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		padding: 40px 20px 0 20px;
+		padding: 40px 20px 20px 20px;
 		line-height: 1.6;
 		text-align: center;
 		gap: 4px;
 
 		h1 {
-			font-size: 16px;
+			font-size: 22px;
 			margin: 0;
+			text-transform: uppercase;
+			letter-spacing: 0.5px;
 			font-weight: 600;
 			color: hsla(215, 20%, 78%, 0.75);
-
 		}
 		p {
-			font-size: 12px;
+			font-size: 14px;
 			margin: 0;
 			font-weight: 400;
+			letter-spacing: 0.3px;
 		}
 	}
 }
@@ -50,25 +64,47 @@ body {
 	font-size: 12px;
 	text-align: center;
 	padding: 0 40px 40px;
-	letter-spacing: .5px;
-	line-height: 1.6
-  }
-  
-object {
-	max-width: 710px;
-    border: 1px solid #ffffff29;
-    border-radius: 8px;
-    padding: 20px 0 20px 0;
-    margin: 20px 0 20px;
+	letter-spacing: 0.3px;
+	line-height: 1.6;
+	max-width: 800px;
+	margin: 0 auto;
+	box-sizing: border-box;
 }
+
 .legend {
-	font-size: 10px;
+	font-size: 12px;
 	display: flex;
 	gap: 24px;
 	margin-top: 16px;
 	flex-wrap: wrap;
-  }
-  .legend span {
+	max-width: 800px;
+	box-sizing: border-box;
+}
+.legend span {
 	padding: 4px 8px;
+}
+
+#matrixplot-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 0 8px;
+}
+
+#matrixplot-container .matrixplot-chart {
+  font-size: 13px; /* Change this value to control all chart font sizes */
+}
+
+@media (max-width: 900px) {
+  #matrixplot-container {
+    max-width: 400px;
   }
-  
+}
+
+@media (max-width: 600px) {
+  #matrixplot-container {
+    max-width: 100vw;
+    padding: 0 4px;
+  }
+}

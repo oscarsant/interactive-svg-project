@@ -3,16 +3,16 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Interactive SVG Control</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>Matrix Plot</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
   <div class="container">
     <header>
       <h1>Who Rules Europe?</h1>
-      <p>The best league in Europe? Look at the last 15 years of Champions League [UCL] and Europa League [UEL] finals — the answer
+      <p>The best league in Europe? Look at the last 15 years of Champions League [UCL] and Europa League [UEL] finals —
+        the answer
         isn’t just about winners, but consistency at the top.</p>
     </header>
     <!-- Legend / Key -->
@@ -20,27 +20,24 @@
       <span><strong>[W]</strong> = Winner</span>
       <span><strong>[R]</strong> = Runner-up</span>
     </div>
-
-    <object id="svgObject" type="image/svg+xml" data="icon.svg"></object>
+    <div id="matrixplot-container"></div>
   </div>
   <!-- Footer container -->
   <div class="footer">
     Data from UEFA | 2009–2024 | Includes Champions League & Europa League finals<br>
     Created by Your Name – May 2025
   </div>
+  <script type="module">
+    import { render } from './matrixplot.js';
+    import { data, mapping, visualOptions } from './data.js';
 
-  <script>
-    const svgObject = document.getElementById("svgObject");
-    const hueSlider = document.getElementById("hueSlider");
-
-    svgObject.addEventListener("load", () => {
-      const svgDoc = svgObject.contentDocument;
-      const circle = svgDoc.getElementById("main-circle");
-
-      hueSlider.addEventListener("input", () => {
-        const hue = hueSlider.value;
-        circle.style.fill = `hsl(${hue}, 100%, 50%)`;
-      });
+    render({
+      data,
+      mapping,
+      visualOptions,
+      width: 700,
+      height: 5000,
+      element: document.getElementById('matrixplot-container')
     });
   </script>
 </body>
