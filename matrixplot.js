@@ -169,7 +169,14 @@ export function render({ data, mapping, visualOptions, width, height, element, m
     .attr("text-anchor", "middle")
     .attr("dominant-baseline", "middle")
     .attr("fill", d => getCountryTextColor(d.country))
-    .text(d => d.team);
+    .text(d => {
+      // Only for the first year (yearIdx === 0)
+      if (d.yearIdx === 0) {
+        if (d.row === 0) return `${d.team} [W]`;
+        if (d.row === 1) return `${d.team} [R]`;
+      }
+      return d.team;
+    });
 
   // Calculate total width needed for all columns
   const totalColumns = competitions.length;

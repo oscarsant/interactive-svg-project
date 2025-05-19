@@ -66,13 +66,14 @@ body {
 }
 
 .legend {
-	font-size: 14px;
+	font-size: 12px;
 	display: flex;
-	gap: 24px;
+	gap: 8px;
 	margin-top: 16px;
 	flex-wrap: wrap;
 	max-width: 800px;
 	box-sizing: border-box;
+	margin-bottom: 8px;
 }
 .legend span {
 	padding: 4px 8px;
