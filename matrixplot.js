@@ -1,7 +1,7 @@
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
 export function render({ data, mapping, visualOptions, width, height, element, maxWidth }) {
-  const margin = { top: 20, right: 20, bottom: 20, left: 20 };
+  const margin = { top: 40, right: 20, bottom: 20, left: 20 };
   const innerWidth = width - margin.left - margin.right;
   const innerHeight = height - margin.top - margin.bottom;
 
@@ -11,16 +11,13 @@ export function render({ data, mapping, visualOptions, width, height, element, m
   // Responsive SVG: use viewBox and width: 100%
   const svg = d3.select(element)
     .append("svg")
-    // .attr("width", width)
-    // .attr("height", height)
     .attr("preserveAspectRatio", "xMinYMin meet")
-    .style("width", "100%")
-    .style("height", "auto")
-    .style("max-width", maxWidth ? `${maxWidth}px` : "600px")
+    // .style("width", "100%")
+    // .style("height", "auto")
+    // .style("max-width", maxWidth ? `${maxWidth}px` : "600px")
     .style("border", "1px solid #ccc");
 
   const chart = svg.append("g")
-    .attr("class", "matrixplot-chart")
     .attr("transform", `translate(${margin.left},${margin.top})`);
 
   // Force competitions order: UCL left, UEL right
@@ -29,7 +26,7 @@ export function render({ data, mapping, visualOptions, width, height, element, m
     .map(String)
     .sort();
 
-  // For each year, show UCL and UEL side by side (not stacked)
+  // For each year, show UCL and UEL stacked vertically in a single column
   let cells = [];
   years.forEach((year, yearIdx) => {
     competitions.forEach((comp, compIdx) => {
@@ -44,7 +41,8 @@ export function render({ data, mapping, visualOptions, width, height, element, m
           country: winner.country,
           compIdx,
           yearIdx,
-          row: 0 // winner row (top)
+          row: 0, // winner row (top)
+          col: compIdx // column for this competition
         });
       }
       // Runner-up
@@ -58,109 +56,194 @@ export function render({ data, mapping, visualOptions, width, height, element, m
           country: runnerUp.country,
           compIdx,
           yearIdx,
-          row: 1 // runner-up row (bottom)
+          row: 1, // runner-up row (bottom)
+          col: compIdx // column for this competition
         });
       }
     });
   });
 
-  // Layout: x = competitions × 2 (winner, runner-up), y = years
-  const cellWidth = 100;
-  const cellHeight = 40;
-  const cellPadding = 8;
+  // Layout: x = competitions, y = years, stack winner/runner-up vertically in each cell
+  const cellWidth = 150;
+  const cellHeight = 100;
+  const cellPadding = 20;
+  const gapBetween = 4; // or any value you like
 
   // Color scale for country
   const countries = Array.from(new Set(data.map(d => d.country))).sort();
   const colorScale = d3.scaleOrdinal(d3.schemeCategory10).domain(countries);
 
-  // Helper to get x position: [UCL-winner, UCL-runner, UEL-winner, UEL-runner]
-  function getX(compIdx, row) {
-    return (compIdx * 2 + row) * (cellWidth + cellPadding);
+  // Country color map for rectangles
+  const countryColors = {
+    spain:   "#8E0A27",
+    italy:   "#2C5DA1",
+    england: "#ABB0B5",
+    france:  "#0B3767",
+    germany: "#9F8137",
+    default: "hwb(215 5% 90% / .9)"
+  };
+
+  // Country color map for text (customize as you wish)
+  const countryTextColors = {
+    spain:   "#9F8137",
+    italy:   "#9FA3A8",
+    england: "#932027",
+    france:  "#9F8137",
+    germany: "#060A0F",
+    default: "#54514F"
+  };
+
+  // Helper to get color by country for rectangles
+  function getCountryColor(country) {
+    return countryColors[country?.toLowerCase()] || countryColors.default;
   }
 
-  // Draw rectangles (horizontal layout)
+  // Helper to get color by country for text
+  function getCountryTextColor(country) {
+    return countryTextColors[country?.toLowerCase()] || countryTextColors.default;
+  }
+
+  // Helper to get x position: one column per competition
+  function getX(compIdx) {
+    return compIdx * (cellWidth + cellPadding);
+  }
+
+  // Helper to get y position for each cell (winner on top, runner-up on bottom)
+  function getCellY(yearIdx, row) {
+    // winner (row 0): top half, runner-up (row 1): bottom half
+    return yearIdx * (cellHeight + cellPadding) + row * (cellHeight / 2) + (row === 1 ? gapBetween : 0);
+  }
+
+  // Draw rectangles (winner on top, runner-up on bottom in one column)
   chart.selectAll("rect")
     .data(cells)
     .enter()
     .append("rect")
-    .attr("x", d => getX(d.compIdx, d.row))
-    .attr("y", d => d.yearIdx * (cellHeight + cellPadding))
+    .attr("x", d => getX(d.col))
+    .attr("y", d => getCellY(d.yearIdx, d.row))
     .attr("width", cellWidth)
-    .attr("height", cellHeight)
-    .attr("fill", d => colorScale(d.country))
-    .attr("stroke", "#fff");
+    .attr("height", cellHeight / 2)
+    .attr("rx", 8)
+    .attr("ry", 8)
+    .attr("fill", d => getCountryColor(d.country));
 
-  // Team label inside rectangle
-  chart.selectAll("text.team-label")
-    .data(cells)
-    .enter()
-    .append("text")
-    .attr("class", "team-label")
-    .attr("x", d => getX(d.compIdx, d.row) + cellWidth / 2)
-    .attr("y", d => d.yearIdx * (cellHeight + cellPadding) + cellHeight / 2 - 4)
-    .attr("text-anchor", "middle")
-    .attr("dominant-baseline", "middle")
-    .style("font-size", "1em") // for team label
-    .style("font-weight", d => d.value === 2 ? "bold" : "normal")
-    .style("fill", "#fff")
-    .text(d => d.team);
+  // Map country names to acronyms
+  const countryAcronyms = {
+    spain: "ESP",
+    italy: "ITA",
+    england: "ENG",
+    france: "FRA",
+    germany: "GER"
+  };
 
-  // Country label below team
+  // Helper to get acronym or fallback to country name in all caps
+  function getCountryAcronym(country) {
+    if (!country) return "";
+    const key = country.toLowerCase();
+    if (countryAcronyms[key]) return countryAcronyms[key];
+    // Default: first 3 uppercase letters of the country name
+    return country.slice(0, 3).toUpperCase();
+  }
+
+  // Country label (acronym, centered in top/bottom half)
   chart.selectAll("text.country-label")
     .data(cells)
     .enter()
     .append("text")
     .attr("class", "country-label")
-    .attr("x", d => getX(d.compIdx, d.row) + cellWidth / 2)
-    .attr("y", d => d.yearIdx * (cellHeight + cellPadding) + cellHeight / 2 + 8)
+    .attr("x", d => getX(d.col) + cellWidth / 2)
+    .attr("y", d => getCellY(d.yearIdx, d.row) + (cellHeight / 4) - 8)
     .attr("text-anchor", "middle")
     .attr("dominant-baseline", "middle")
-    .style("font-size", "0.82em") // for country label
-    .style("fill", "#fff")
-    .text(d => d.country);
+    .attr("fill", d => getCountryTextColor(d.country))
+    .text(d => getCountryAcronym(d.country));
+
+  // Team label (centered in top/bottom half, below country)
+  chart.selectAll("text.team-label")
+    .data(cells)
+    .enter()
+    .append("text")
+    .attr("class", "team-label")
+    .attr("x", d => getX(d.col) + cellWidth / 2)
+    .attr("y", d => getCellY(d.yearIdx, d.row) + (cellHeight / 4) + 8)
+    .attr("text-anchor", "middle")
+    .attr("dominant-baseline", "middle")
+    .attr("fill", d => getCountryTextColor(d.country))
+    .text(d => d.team);
 
   // Calculate total width needed for all columns
-  const totalColumns = competitions.length * 2; // 2 columns per competition (winner, runner-up)
-  const totalWidth = totalColumns * (cellWidth + cellPadding);
+  const totalColumns = competitions.length;
+  const totalWidth = totalColumns * cellWidth + (totalColumns - 1) * cellPadding;
 
   // Calculate total height needed for all rows (years)
   const totalRows = years.length;
   const totalHeight = totalRows * (cellHeight + cellPadding);
 
   // Update SVG and chart size dynamically
-  svg.attr("viewBox", `0 0 ${totalWidth + margin.left + margin.right} ${totalHeight + margin.top + margin.bottom}`);
-  chart.attr("width", totalWidth);
-  chart.attr("height", totalHeight);
+  const svgWidth = totalWidth + margin.left + margin.right;
+  const svgHeight = totalHeight + margin.top + margin.bottom;
 
-  // Update x position for year labels in the middle
+  svg
+    .attr("width", svgWidth)
+    .attr("height", svgHeight)
+    .attr("viewBox", `0 0 ${svgWidth} ${svgHeight}`)
+    .style("border", "1px solid #ffffff2b");
+
+  // Center between columns
+  const centerCol = (competitions.length - 1) / 2;
+  const xAxis = getX(centerCol) + cellWidth / 2;
+
+  // Calculate the vertical start and end for the y-axis line
+  const yAxisTop = cellHeight / 2;
+  const yAxisBottom = totalRows * (cellHeight + cellPadding) - cellHeight / 2;
+
+  chart.append("line")
+    .attr("x1", xAxis)
+    .attr("x2", xAxis)
+    .attr("y1", yAxisTop)
+    .attr("y2", yAxisBottom)
+    .attr("stroke", "#bbb")
+    .attr("stroke-width", 1)
+    .attr("opacity", 0.3);
+
+
+  // Draw year labels and backgrounds, centered
   years.forEach((year, yearIdx) => {
+    const centerCol = (competitions.length - 1) / 2;
+    const x = getX(centerCol) + cellWidth / 2;
+    const y = yearIdx * (cellHeight + cellPadding) + cellHeight / 2;
+    const rectWidth = 40;
+    const rectHeight = 25;
+
+    // Draw background rectangle
+    chart.append("rect")
+      .attr("x", x - rectWidth / 2)
+      .attr("y", y - rectHeight / 2)
+      .attr("width", rectWidth)
+      .attr("height", rectHeight)
+      .attr("rx", 2)
+      .attr("fill", "#0F1826")
+      .attr("opacity", 0.85);
+
+    // Draw year label text
     chart.append("text")
       .attr("class", "y-year-label")
-      .attr(
-        "x",
-        totalWidth / 2 // center of all columns
-      )
-      .attr("y", yearIdx * (cellHeight + cellPadding) + cellHeight / 2)
+      .attr("x", x)
+      .attr("y", y)
       .attr("text-anchor", "middle")
       .attr("dominant-baseline", "middle")
-      .style("font-size", "1.27em") // for year label
-      .style("font-weight", "bold")
-      .style("fill", "#222")
+      .style("fill", "#999")
       .text(year);
   });
 
   // Add competition and role labels at the top
-  ["UCL", "UEL"].forEach((comp, compIdx) => {
-    ["Winner", "Runner-up"].forEach((role, row) => {
-      chart.append("text")
-        .attr("class", "x-label")
-        .attr("x", getX(compIdx, row) + cellWidth / 2)
-        .attr("y", -20)
-        .attr("text-anchor", "middle")
-        .style("font-size", "1.1em") // for x-label
-        .style("font-weight", "bold")
-        .style("fill", "#222")
-        .text(`${comp} ${role}`);
-    });
+  competitions.forEach((comp, compIdx) => {
+    chart.append("text")
+      .attr("class", "x-label")
+      .attr("x", getX(compIdx) + cellWidth / 2)
+      .attr("y", -10)
+      .attr("text-anchor", "middle")
+      .style("fill", "#999")
+      .text(comp);
   });
 }
