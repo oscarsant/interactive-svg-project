@@ -2,23 +2,16 @@
 
 body {
 	margin: 0;
-	background: #f0f0f0;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+	background: #0e1826;
 	color: hsla(215, 20%, 78%, 0.5);
 	font-family: "Inter", sans-serif;
-	background: #0e1826;
-	box-sizing: border-box;
-	width: 100vw;
 
 	strong {
 		font-weight: 400;
 	}
 }
 #chart {
-	width: 100vw;
+	width: 100%;
 	box-sizing: border-box;
 	display: flex;
 	flex-direction: column;
@@ -29,7 +22,8 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	width: 100vw;
+	width: 100%;
+	max-width: 100vw;
 	box-sizing: border-box;
 	height: 100%;
 	color: hsla(215, 20%, 78%, 0.5);
@@ -98,13 +92,11 @@ body {
 
 @media (max-width: 900px) {
   #matrixplot-container {
-    max-width: 400px;
+
   }
 }
 
 @media (max-width: 600px) {
   #matrixplot-container {
-    max-width: 100vw;
-    padding: 0 4px;
-  }
+
 }
