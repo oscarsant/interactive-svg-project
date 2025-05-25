@@ -6,13 +6,15 @@
   <meta charset="UTF-8" />
   <title>Matrix Plot</title>
   <link rel="stylesheet" href="style.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 
 <body>
   <div class="container">
     <header>
       <h1>Who Rules Europe?</h1>
-      <p>The best league in Europe? Look at every Champions League [UCL] and Europa League [UEL] final since 2000. It's not just
+      <p>The best league in Europe? Look at every Champions League [UCL] and Europa League [UEL] final since 2000. It's
+        not just
         about who wins, but who keeps showing up.</p>
     </header>
     <!-- Legend / Key -->
@@ -20,23 +22,34 @@
       <span><strong>[ W ]</strong> = Winner</span>
       <span><strong>[ R ]</strong> = Runner-up</span>
     </div>
-    <div id="matrixplot-container"></div>
+    <div class="chart-container" id="my-chart"></div>
   </div>
   <!-- Footer container -->
   <div class="footer">
-    Data from UEFA | 2009–2024 | Includes Champions League & Europa League finals<br>
+    Data from UEFA | 2000–2024 | Includes Champions League & Europa League finals<br>
     Created by Oscar Santamarina – May 2025
   </div>
   <script type="module">
-    import { render } from './matrixplot.js';
+    import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+    import { render, cleanup } from './matrixplot.js';
     import { data, mapping, visualOptions } from './data.js';
-
-    render({
-      data,
-      mapping,
-      visualOptions,
-      element: document.getElementById('matrixplot-container')
-    });
+  
+    const element = document.getElementById("my-chart");
+  
+    function drawChart() {
+      render({
+        data,
+        mapping,
+        visualOptions,
+        width: element.offsetWidth, // or element.getBoundingClientRect().width
+        element,
+        // maxWidth: 800, // Optional: remove maxWidth limit or set it to your container size
+        d3: d3
+      });
+    }
+  
+    drawChart();
+    window.addEventListener('beforeunload', cleanup);
   </script>
 </body>
 
